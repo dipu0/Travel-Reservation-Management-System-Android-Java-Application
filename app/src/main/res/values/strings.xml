@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Travel Reservation Management System</string>
+    <string name="name">Enter your name</string>
+    <string name="mail">Enter your e-mail</string>
+    <string name="Address">Enter your Address</string>
+    <string name="number">Enter your number</string>
+    <string name="Vehicle">Medium of transportation</string>
+    <string name="tour">package code/ Where you want to go</string>
+    <string name="people">Enter number of travelers</string>
+    <string name="wllc">Welcome</string>
+
+    <string name="place">place name</string>
+    <string name="birishiri">Birishiri 2din 1 night</string>
+    <string name="golapgram">Golap gram 1 day tour</string>
+    <string name="sajek">Sajek Valley 3 day 2night</string>
+    <string name="moinot">A single day tour</string>
+    <string name="cox">Coxs Bazar 2day and 1 night and St. Martins Island 1 night and 2day</string>
+    <string name="srimangal">3 Awesome Days in Srimangal</string>
+    <string name="sundarban">Sundarbans Tour Package in Small Group</string>
+    <string name="sylhet">3 Days 2 Nights Sylhet</string>
+
+</resources>
